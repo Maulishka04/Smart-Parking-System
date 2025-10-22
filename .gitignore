@@ -1,0 +1,29 @@
+# Compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code settings (optional - comment out if you want to share settings)
+.vscode/
+*.code-workspace
+
+# Data files (optional - keep these if you want to track them)
+# data-c/*.csv
+# data-cpp/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*~
+
+# IDE files
+*.swp
+*.swo
+.idea/
